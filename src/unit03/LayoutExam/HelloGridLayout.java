@@ -9,6 +9,9 @@ import javax.swing.JPanel;
 
 public class HelloGridLayout extends JFrame{
 	public HelloGridLayout() {
+		
+		
+		//값을 변경
 		JPanel p = new JPanel();
 		p.setBackground(Color.LIGHT_GRAY);
 		add(p);
