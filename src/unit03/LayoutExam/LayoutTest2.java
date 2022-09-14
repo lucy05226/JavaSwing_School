@@ -36,10 +36,6 @@ public class LayoutTest2 extends JFrame{
 		p3.add(b5);
 		p3.add(b6);
 		
-		
-		
-		
-		
 		setTitle("·¹ÀÌ¾Æ¿ô ¼¯±â");
 		setSize(400,300);
 		setLocationRelativeTo(null);
